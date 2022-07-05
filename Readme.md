@@ -13,10 +13,14 @@ and some security to I can properly support him.
 
 * I also want to get a job in tech be it:
     
-    *Data Analysis
-    *Software Development
-    *AI
-    *Robotics
-    *Networking,........
+    Data Analysis
+    
+    Software Development
+    
+    AI
+    
+    Robotics
+    
+    Networking,........
  
  I'm interested in a lot of stuff.
