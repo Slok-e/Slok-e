@@ -23,4 +23,9 @@ and some security to I can properly support him.
     
     -Networking
  
- I'm interested in a lot of stuff.
+ 3. Finish my Degree, regardless of landing a job or not before then.
+
+ ## Current known and learning languages
+
+ *Known:
+    -None Yet : :P :
