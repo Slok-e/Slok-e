@@ -13,15 +13,15 @@ and some security to I can properly support him.
 
 2. I also want to get a job in tech be it:
     
-    -Data Analysis
+    - Data Analysis
     
-    -Software Development
+    - Software Development
     
-    -AI    
+    - AI    
     
-    -Robotics
+    - Robotics
     
-    -Networking
+    - Networking
  
  3. Finish my Degree, regardless of landing a job or not before then.
 
@@ -29,4 +29,8 @@ and some security to I can properly support him.
 
  * Known:
     
-    -None Yet :P
+    - None Yet :P
+
+* Learning:
+    - Python    - CSS
+    - HTML      - Javascript
