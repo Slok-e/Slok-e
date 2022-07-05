@@ -12,6 +12,7 @@ and some security to I can properly support him.
 * My overall goals are to be language fluent for the most part, I'm sure I'll choose something to specialize in, but for now I'm open to learning everything.
 
 * I also want to get a job in tech be it:
+    
     *Data Analysis
     *Software Development
     *AI
