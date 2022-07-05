@@ -28,4 +28,5 @@ and some security to I can properly support him.
  ## Current known and learning languages
 
  *Known:
-    -None Yet ::P:
+    
+    -None Yet :P
