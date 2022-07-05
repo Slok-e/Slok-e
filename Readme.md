@@ -32,5 +32,9 @@ and some security to I can properly support him.
     - None Yet :P
 
 * Learning:
-    - Python        - CSS
-    - HTML          - Javascript
+    - Python
+    - HTML
+    - CSS
+    - Javascript
+    - Markdown(I.E This Redme.md)
+    - SQL(More towards Azure)
