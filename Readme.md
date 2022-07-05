@@ -32,5 +32,5 @@ and some security to I can properly support him.
     - None Yet :P
 
 * Learning:
-    - Python    - CSS
-    - HTML      - Javascript
+    - Python        - CSS
+    - HTML          - Javascript
