@@ -7,6 +7,8 @@ I started with a small goal of just see what im interested in and try and learn 
 of coding education apps like; Mimo, SoloLearn, and watched 100's of Youtube videos. I'm currently a student at Arizona Stat University(Online) which I began pursuing a Bachelors in Information Technology, as of the beggining of this year(2022). This is after about 4 or 5 years of not continuing college, having my first child made me want to get a career,
 and some security to I can properly support him.
 
+<link color="#26E07F" rel="mask-icon" href=".../icons8-twitter-40.svg">
+
 ## Goals
 
 1. My overall goals are to be language fluent for the most part, I'm sure I'll choose something to specialize in, but for now I'm open to learning everything.
