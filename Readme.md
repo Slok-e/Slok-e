@@ -31,10 +31,11 @@ and some security to I can properly support him.
 
  * Known:
     
-    - None Yet :P
+    - Python(Beginner)
 
 * Learning:
-    - Python
+    - Python for Data Science
+        * Pandas
     - HTML
     - CSS
     - Javascript
