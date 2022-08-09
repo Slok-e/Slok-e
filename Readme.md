@@ -25,17 +25,12 @@ and some security to I can properly support him.
  
  3. Finish my Degree, regardless of landing a job or not before then.
 
- ## Current known and learning languages
-
- * Known:
-    
-    - Python(Beginner)
-
-* Learning:
-    - Python for Data Science
-        * Pandas
-    - HTML
-    - CSS
-    - Javascript
-    - Markdown(I.E This Redme.md)
-    - SQL(More towards Azure)
+## <div align="center">Stats</div> 
+<div align="center">
+  <img width="370px" src="https://github-readme-stats.vercel.app/api?username=Slok-e&show_icons=true&theme=tokyonight&count_private=true&bg_color=00000000&hide_border=true" />
+  <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=Slok-e&theme=tokyonight&background=00000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slok-e&exclude_repo=etrader&exclude+repo=doodlejump&theme=tokyonight&bg_color=00000000&hide_border=true" />
+</div>
+<p align="center">
+ 
+ 
