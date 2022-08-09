@@ -16,19 +16,16 @@ and some security to I can properly support him.</div>
 <p align="center">
 
 <h2 align="center">Goals</h2>
-
+<p align="center>
 1. My overall goals are to be language fluent for the most part, I'm sure I'll choose something to specialize in, but for now I'm open to learning everything.
-
-2. I also want to get a job in tech be it:
-    
+2. I also want to get a job in tech be it:  
     - Data Analysis
     - Software Development
     - AI    
     - Robotics
     - Networking
-    
  3. Finish my Degree, regardless of landing a job or not before then.
-
+</p>
  
 <!--
 Here are some ideas to get you started:
