@@ -15,7 +15,7 @@ and some security to I can properly support him.</div>
 </div>
 <p align="center">
 
-<h2 align="center">Social</h2>
+<h2 align="center">Socials</h2>
 <p align="center">
 <a href="http://www.instagram.com/kelso.io/" target="_blank" rel="noreferrer"><img 
 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
