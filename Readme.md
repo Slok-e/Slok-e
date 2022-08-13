@@ -16,7 +16,8 @@ and some security to I can properly support him.</div>
 <p align="center">
 
 <h2 align="center">Social</h2>
-<a href="">
+<<p align="left"> <a href="http://www.instagram.com/ela.codes" target="_blank" rel="noreferrer"><img 
+src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 <!--
 Here are some ideas to get you started:
 
