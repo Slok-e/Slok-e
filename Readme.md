@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to my Git Hub Page</h1>
 
+<div align="center"><img src="https://i.imgur.com/MvMxQ1a.gif" width="500" height="350" alt="github"></img></div>
+
 <h2 align="center">Brief history</h2>
 
 <div align="center">My name is Kelso, I started getting serious about trying to do Computer Science/ IT May this year (2022)
