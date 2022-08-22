@@ -29,12 +29,13 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 </p>
 
 <h2 align="center">Skills</h2>
-<p align="center">
-  <a href=""><img src="https://www.sqlite.org/images/sqlite370_banner.gif" width="64" height="32"></a>
-  <a href=""><img src="https://www.sqlite.org/images/sqlite370_banner.gif](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5.svg" width="32" height="32"></a>
-  <a href=""><img src="https://www.sqlite.org/images/sqlite370_banner.gif" width="32" height="32"></a>
-  <a href=""><img src="https://www.sqlite.org/images/sqlite370_banner.gif" width="32" height="32"></a>
-</p>
+<div align="center">
+  <a href=""><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="32" height="32"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="32" height="32"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" height="32"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="32" height="32" padding="no-padding"></a>
+  <a href=""><img src="https://www.sqlite.org/images/sqlite370_banner.gif" width="64" height="32" padding="no-padding"></a>
+</div>
 <!--
 Here are some ideas to get you started:
 
