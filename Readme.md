@@ -5,8 +5,7 @@
 <h2 align="center">Brief history</h2>
 
 <div align="center">My name is Kelso, I started getting serious about trying to do Computer Science/ IT May this year (2022)
-I started with a small goal of just seeing what im interested in and try and learn from there. I downloaded a couple
-of coding education apps like; Mimo, SoloLearn, and watched 100's of Youtube videos. I'm currently a student at Arizona Stat University(Online) which I began pursuing a Bachelors in Information Technology, as of the beggining of this year(2022). This is after about 4 or 5 years of not continuing college, having my first child made me want to get a career,
+I'm currently a student at Arizona Stat University(Online) which I began pursuing a Bachelors in Information Technology, as of the beggining of this year(2022). This is after about 4 or 5 years of not continuing college, having my first child made me want to get a career,
 and some security to I can properly support him.</div>
 
 ## <div align="center">Stats</div> 
@@ -29,6 +28,13 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
 
+<h2 align="center">Skills</h2>
+<p align="center">
+  <a href=""><img src="https://www.sqlite.org/images/sqlite370_banner.gif" width="64" height="32"></a>
+  <a href=""><img src="https://www.sqlite.org/images/sqlite370_banner.gif](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5.svg" width="32" height="32"></a>
+  <a href=""><img src="https://www.sqlite.org/images/sqlite370_banner.gif" width="32" height="32"></a>
+  <a href=""><img src="https://www.sqlite.org/images/sqlite370_banner.gif" width="32" height="32"></a>
+</p>
 <!--
 Here are some ideas to get you started:
 
